@@ -1,10 +1,9 @@
 import pyautogui
-import time
 
-class main:
-  def __init__(self):
+class troca:
+  def __init__(self, pokes_pos):
     self.count = 0
-    self.poke_posxy = [(28,207), (73,206), (120,207), (167,209), (214,206), (265,204)]
+    self.poke_posxy = pokes_pos
 
   def check_tamanho(self):
     self.count = self.count % len(self.poke_posxy)

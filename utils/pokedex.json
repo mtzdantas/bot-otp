@@ -1,0 +1,4801 @@
+[
+    {
+        "Nome": "Bulbasaur",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Leech Seed"
+            },
+            {
+                "numero": "M3",
+                "nome": "Vine Whip"
+            },
+            {
+                "numero": "M4",
+                "nome": "Poison Powder"
+            },
+            {
+                "numero": "M5",
+                "nome": "Razor Leaf"
+            }
+        ]
+    },
+    {
+        "Nome": "Ivysaur",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Leech Seed"
+            },
+            {
+                "numero": "M3",
+                "nome": "Vine Whip"
+            },
+            {
+                "numero": "M4",
+                "nome": "Poison Powder"
+            },
+            {
+                "numero": "M5",
+                "nome": "Razor Leaf"
+            },
+            {
+                "numero": "M6",
+                "nome": "Seed Bomb"
+            },
+            {
+                "numero": "M7",
+                "nome": "Synthesis"
+            }
+        ]
+    },
+    {
+        "Nome": "Venusaur",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Leech Seed"
+            },
+            {
+                "numero": "M3",
+                "nome": "Vine Whip"
+            },
+            {
+                "numero": "M4",
+                "nome": "Sludge Bomb"
+            },
+            {
+                "numero": "M5",
+                "nome": "Petal Dance"
+            },
+            {
+                "numero": "M6",
+                "nome": "Seed Bomb"
+            },
+            {
+                "numero": "M7",
+                "nome": "Synthesis"
+            },
+            {
+                "numero": "M8",
+                "nome": "Solar Beam"
+            },
+            {
+                "numero": "M9",
+                "nome": "Earthquake"
+            },
+            {
+                "numero": "M10",
+                "nome": "Petal Blizzard"
+            }
+        ]
+    },
+    {
+        "Nome": "Charmander",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Ember"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Dragon Rage"
+            },
+            {
+                "numero": "M5",
+                "nome": "Flame Burst"
+            }
+        ]
+    },
+    {
+        "Nome": "Charmeleon",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Ember"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Dragon Rage"
+            },
+            {
+                "numero": "M5",
+                "nome": "Flame Burst"
+            },
+            {
+                "numero": "M6",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M7",
+                "nome": "Inferno"
+            }
+        ]
+    },
+    {
+        "Nome": "Charizard",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M2",
+                "nome": "Heat Wave"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Dragon Claw"
+            },
+            {
+                "numero": "M5",
+                "nome": "Flame Burst"
+            },
+            {
+                "numero": "M6",
+                "nome": "Fly"
+            },
+            {
+                "numero": "M7",
+                "nome": "Inferno"
+            },
+            {
+                "numero": "M8",
+                "nome": "Solar Beam"
+            },
+            {
+                "numero": "M9",
+                "nome": "Roost"
+            },
+            {
+                "numero": "M10",
+                "nome": "Flare Blitz"
+            }
+        ]
+    },
+    {
+        "Nome": "Squirtle",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M5",
+                "nome": "Aqua Tail"
+            }
+        ]
+    },
+    {
+        "Nome": "Wartortle",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M5",
+                "nome": "Aqua Tail"
+            },
+            {
+                "numero": "M6",
+                "nome": "Scald"
+            },
+            {
+                "numero": "M7",
+                "nome": "Ice Beam"
+            }
+        ]
+    },
+    {
+        "Nome": "Blastoise",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Life Dew"
+            },
+            {
+                "numero": "M2",
+                "nome": "Surf"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Skull Bash"
+            },
+            {
+                "numero": "M5",
+                "nome": "Water Spout"
+            },
+            {
+                "numero": "M6",
+                "nome": "Scald"
+            },
+            {
+                "numero": "M7",
+                "nome": "Ice Beam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Flash Cannon"
+            },
+            {
+                "numero": "M9",
+                "nome": "Aura Sphere"
+            },
+            {
+                "numero": "M10",
+                "nome": "Hydro Cannon"
+            }
+        ]
+    },
+    {
+        "Nome": "Caterpie",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "String Shot"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bug Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Electroweb"
+            }
+        ]
+    },
+    {
+        "Nome": "Metapod",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "String Shot"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bug Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Electroweb"
+            },
+            {
+                "numero": "M5",
+                "nome": "Harden"
+            }
+        ]
+    },
+    {
+        "Nome": "Butterfree",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Bug Buzz"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bug Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Electroweb"
+            },
+            {
+                "numero": "M5",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M6",
+                "nome": "Sleep Powder"
+            },
+            {
+                "numero": "M7",
+                "nome": "Poison Powder"
+            },
+            {
+                "numero": "M8",
+                "nome": "Whirlwind"
+            }
+        ]
+    },
+    {
+        "Nome": "Weedle",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Poison Sting"
+            },
+            {
+                "numero": "M2",
+                "nome": "String Shot"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bug Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Electroweb"
+            }
+        ]
+    },
+    {
+        "Nome": "Kakuna",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Poison Sting"
+            },
+            {
+                "numero": "M2",
+                "nome": "String Shot"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bug Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Electroweb"
+            },
+            {
+                "numero": "M5",
+                "nome": "Harden"
+            }
+        ]
+    },
+    {
+        "Nome": "Beedrill",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Toxic Spikes"
+            },
+            {
+                "numero": "M2",
+                "nome": "Pin Missile"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bug Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Electroweb"
+            },
+            {
+                "numero": "M5",
+                "nome": "Rage"
+            },
+            {
+                "numero": "M6",
+                "nome": "X Scissor"
+            },
+            {
+                "numero": "M7",
+                "nome": "Poison Jab"
+            },
+            {
+                "numero": "M8",
+                "nome": "Drill Run"
+            }
+        ]
+    },
+    {
+        "Nome": "Pidgey",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quick Attack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Gust"
+            },
+            {
+                "numero": "M3",
+                "nome": "Sand Attack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Wing Attack"
+            }
+        ]
+    },
+    {
+        "Nome": "Pidgeotto",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quick Attack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Gust"
+            },
+            {
+                "numero": "M3",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Wing Attack"
+            },
+            {
+                "numero": "M5",
+                "nome": "Heat Wave"
+            },
+            {
+                "numero": "M6",
+                "nome": "Twister"
+            }
+        ]
+    },
+    {
+        "Nome": "Pidgeot",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Aerial Ace"
+            },
+            {
+                "numero": "M3",
+                "nome": "Sand Attack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Feather Dance"
+            },
+            {
+                "numero": "M5",
+                "nome": "Heat Wave"
+            },
+            {
+                "numero": "M6",
+                "nome": "Twister"
+            },
+            {
+                "numero": "M7",
+                "nome": "Hurricane"
+            },
+            {
+                "numero": "M8",
+                "nome": "Roost"
+            }
+        ]
+    },
+    {
+        "Nome": "Rattata",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Super Fang"
+            }
+        ]
+    },
+    {
+        "Nome": "Raticate",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Quick Attack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Hyper Fang"
+            },
+            {
+                "numero": "M5",
+                "nome": "Flame Wheel"
+            },
+            {
+                "numero": "M6",
+                "nome": "Sucker Punch"
+            },
+            {
+                "numero": "M7",
+                "nome": "Zen Headbutt"
+            }
+        ]
+    },
+    {
+        "Nome": "Spearow",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Peck"
+            },
+            {
+                "numero": "M2",
+                "nome": "Furyattack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Astonish"
+            },
+            {
+                "numero": "M4",
+                "nome": "Agility"
+            },
+            {
+                "numero": "M5",
+                "nome": "Drill Peck"
+            }
+        ]
+    },
+    {
+        "Nome": "Fearow",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Aerial Ace"
+            },
+            {
+                "numero": "M2",
+                "nome": "Fury Attack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Astonish"
+            },
+            {
+                "numero": "M4",
+                "nome": "Agility"
+            },
+            {
+                "numero": "M5",
+                "nome": "Drill Peck"
+            },
+            {
+                "numero": "M6",
+                "nome": "Fly"
+            },
+            {
+                "numero": "M7",
+                "nome": "Drill Run"
+            },
+            {
+                "numero": "M8",
+                "nome": "Tri Attack"
+            }
+        ]
+    },
+    {
+        "Nome": "Ekans",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Poison Sting"
+            },
+            {
+                "numero": "M2",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M3",
+                "nome": "Acid"
+            },
+            {
+                "numero": "M4",
+                "nome": "Scary Face"
+            }
+        ]
+    },
+    {
+        "Nome": "Arbok",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Poison Fang"
+            },
+            {
+                "numero": "M2",
+                "nome": "Crunch"
+            },
+            {
+                "numero": "M3",
+                "nome": "Poison Tail"
+            },
+            {
+                "numero": "M4",
+                "nome": "Scary Face"
+            },
+            {
+                "numero": "M5",
+                "nome": "Mud Bomb"
+            },
+            {
+                "numero": "M6",
+                "nome": "Iron Tail"
+            },
+            {
+                "numero": "M7",
+                "nome": "Aqua Tail"
+            }
+        ]
+    },
+    {
+        "Nome": "Pikachu",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Thunderbolt"
+            },
+            {
+                "numero": "M2",
+                "nome": "Agility"
+            },
+            {
+                "numero": "M3",
+                "nome": "Thunder Wave"
+            },
+            {
+                "numero": "M4",
+                "nome": "Electro Ball"
+            },
+            {
+                "numero": "M5",
+                "nome": "Grass Knot"
+            },
+            {
+                "numero": "M6",
+                "nome": "Iron Tail"
+            }
+        ]
+    },
+    {
+        "Nome": "Raichu",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Thunderbolt"
+            },
+            {
+                "numero": "M2",
+                "nome": "Agility"
+            },
+            {
+                "numero": "M3",
+                "nome": "Thunder Wave"
+            },
+            {
+                "numero": "M4",
+                "nome": "Electro Ball"
+            },
+            {
+                "numero": "M5",
+                "nome": "Grass Knot"
+            },
+            {
+                "numero": "M6",
+                "nome": "Iron Tail"
+            },
+            {
+                "numero": "M7",
+                "nome": "Volt Switch"
+            },
+            {
+                "numero": "M8",
+                "nome": "Thunder"
+            }
+        ]
+    },
+    {
+        "Nome": "Sandshrew",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rollout"
+            },
+            {
+                "numero": "M4",
+                "nome": "Sandstorm"
+            }
+        ]
+    },
+    {
+        "Nome": "Sandslash",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M2",
+                "nome": "Sand Attack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rollout"
+            },
+            {
+                "numero": "M4",
+                "nome": "Sandstorm"
+            },
+            {
+                "numero": "M5",
+                "nome": "Fury Cutter"
+            },
+            {
+                "numero": "M6",
+                "nome": "Swift"
+            },
+            {
+                "numero": "M7",
+                "nome": "Earth Power"
+            },
+            {
+                "numero": "M8",
+                "nome": "Earthquake"
+            }
+        ]
+    },
+    {
+        "Nome": "Nidoran",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Sting"
+            },
+            {
+                "numero": "M3",
+                "nome": "Poison Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rain Dance"
+            }
+        ]
+    },
+    {
+        "Nome": "Nidorina",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Sting"
+            },
+            {
+                "numero": "M3",
+                "nome": "Poison Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rain Dance"
+            },
+            {
+                "numero": "M5",
+                "nome": "Crunch"
+            },
+            {
+                "numero": "M6",
+                "nome": "Sludge Bomb"
+            }
+        ]
+    },
+    {
+        "Nome": "Nidoqueen",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Double Kick"
+            },
+            {
+                "numero": "M2",
+                "nome": "Toxic Spikes"
+            },
+            {
+                "numero": "M3",
+                "nome": "Poison Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rain Dance"
+            },
+            {
+                "numero": "M5",
+                "nome": "Crunch"
+            },
+            {
+                "numero": "M6",
+                "nome": "Sludge Bomb"
+            },
+            {
+                "numero": "M7",
+                "nome": "Body Slam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Superpower"
+            },
+            {
+                "numero": "M9",
+                "nome": "Earth Power"
+            }
+        ]
+    },
+    {
+        "Nome": "Nidoran",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Sting"
+            },
+            {
+                "numero": "M3",
+                "nome": "Poison Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rain Dance"
+            }
+        ]
+    },
+    {
+        "Nome": "Nidorino",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Peck"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Sting"
+            },
+            {
+                "numero": "M3",
+                "nome": "Horn Attack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Poison Jab"
+            },
+            {
+                "numero": "M5",
+                "nome": "Toxic"
+            },
+            {
+                "numero": "M6",
+                "nome": "Sucker Punch"
+            }
+        ]
+    },
+    {
+        "Nome": "Nidoking",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Double Kick"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Tail"
+            },
+            {
+                "numero": "M3",
+                "nome": "Horn Drill"
+            },
+            {
+                "numero": "M4",
+                "nome": "Poison Jab"
+            },
+            {
+                "numero": "M5",
+                "nome": "Toxic"
+            },
+            {
+                "numero": "M6",
+                "nome": "Sucker Punch"
+            },
+            {
+                "numero": "M7",
+                "nome": "Megahorn"
+            },
+            {
+                "numero": "M8",
+                "nome": "Incinerate"
+            },
+            {
+                "numero": "M9",
+                "nome": "Earthquake"
+            }
+        ]
+    },
+    {
+        "Nome": "Clefairy",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Charm"
+            },
+            {
+                "numero": "M2",
+                "nome": "Pound"
+            },
+            {
+                "numero": "M3",
+                "nome": "Sing"
+            },
+            {
+                "numero": "M4",
+                "nome": "Sweet Kiss"
+            },
+            {
+                "numero": "M5",
+                "nome": "Heal Pulse"
+            },
+            {
+                "numero": "M6",
+                "nome": "Incinerate"
+            }
+        ]
+    },
+    {
+        "Nome": "Clefable",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Life Dew"
+            },
+            {
+                "numero": "M2",
+                "nome": "Brick Break"
+            },
+            {
+                "numero": "M3",
+                "nome": "Wish"
+            },
+            {
+                "numero": "M4",
+                "nome": "Moonlight"
+            },
+            {
+                "numero": "M5",
+                "nome": "Heal Pulse"
+            },
+            {
+                "numero": "M6",
+                "nome": "Incinerate"
+            },
+            {
+                "numero": "M7",
+                "nome": "Meteor Mash"
+            },
+            {
+                "numero": "M8",
+                "nome": "Moonblast"
+            }
+        ]
+    },
+    {
+        "Nome": "Vulpix",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Ember"
+            },
+            {
+                "numero": "M2",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Spin"
+            },
+            {
+                "numero": "M4",
+                "nome": "Hex"
+            },
+            {
+                "numero": "M5",
+                "nome": "Confuse Ray"
+            }
+        ]
+    },
+    {
+        "Nome": "Ninetales",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Heat Wave"
+            },
+            {
+                "numero": "M2",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Spin"
+            },
+            {
+                "numero": "M4",
+                "nome": "Hex"
+            },
+            {
+                "numero": "M5",
+                "nome": "Confuse Ray"
+            },
+            {
+                "numero": "M6",
+                "nome": "Energy Ball"
+            },
+            {
+                "numero": "M7",
+                "nome": "Feint Attack"
+            },
+            {
+                "numero": "M8",
+                "nome": "Inferno"
+            }
+        ]
+    },
+    {
+        "Nome": "Jigglypuff",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Charm"
+            },
+            {
+                "numero": "M2",
+                "nome": "Sing"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Sweet Kiss"
+            },
+            {
+                "numero": "M5",
+                "nome": "Heal Pulse"
+            },
+            {
+                "numero": "M6",
+                "nome": "Hyper Voice"
+            }
+        ]
+    },
+    {
+        "Nome": "Wigglytuff",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Disarming Voice"
+            },
+            {
+                "numero": "M2",
+                "nome": "Sing"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Play Rough"
+            },
+            {
+                "numero": "M5",
+                "nome": "Heal Pulse"
+            },
+            {
+                "numero": "M6",
+                "nome": "Hyper Voice"
+            },
+            {
+                "numero": "M7",
+                "nome": "Focus Blast"
+            },
+            {
+                "numero": "M8",
+                "nome": "Dazzling Gleam"
+            }
+        ]
+    },
+    {
+        "Nome": "Zubat",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M2",
+                "nome": "Astonish"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Mean Look"
+            }
+        ]
+    },
+    {
+        "Nome": "Golbat",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Fang"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M4",
+                "nome": "Mean Look"
+            },
+            {
+                "numero": "M5",
+                "nome": "Giga Drain"
+            },
+            {
+                "numero": "M6",
+                "nome": "Steel Wing"
+            }
+        ]
+    },
+    {
+        "Nome": "Oddish",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Absorb"
+            },
+            {
+                "numero": "M2",
+                "nome": "Acid"
+            },
+            {
+                "numero": "M3",
+                "nome": "Poison Powder"
+            },
+            {
+                "numero": "M4",
+                "nome": "Stun Spore"
+            }
+        ]
+    },
+    {
+        "Nome": "Gloom",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Absorb"
+            },
+            {
+                "numero": "M2",
+                "nome": "Acid"
+            },
+            {
+                "numero": "M3",
+                "nome": "Poison Powder"
+            },
+            {
+                "numero": "M4",
+                "nome": "Stun Spore"
+            },
+            {
+                "numero": "M5",
+                "nome": "Mega Drain"
+            },
+            {
+                "numero": "M6",
+                "nome": "Seed Bomb"
+            }
+        ]
+    },
+    {
+        "Nome": "Vileplume",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Absorb"
+            },
+            {
+                "numero": "M2",
+                "nome": "Sludge Bomb"
+            },
+            {
+                "numero": "M3",
+                "nome": "Toxic"
+            },
+            {
+                "numero": "M4",
+                "nome": "Petal Dance"
+            },
+            {
+                "numero": "M5",
+                "nome": "Giga Drain"
+            },
+            {
+                "numero": "M6",
+                "nome": "Seed Bomb"
+            },
+            {
+                "numero": "M7",
+                "nome": "Synthesis"
+            },
+            {
+                "numero": "M8",
+                "nome": "Solar Beam"
+            }
+        ]
+    },
+    {
+        "Nome": "Paras",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Powder"
+            },
+            {
+                "numero": "M3",
+                "nome": "Stun Spore"
+            },
+            {
+                "numero": "M4",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M5",
+                "nome": "Bug Bite"
+            }
+        ]
+    },
+    {
+        "Nome": "Parasect",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Fury Cutter"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Powder"
+            },
+            {
+                "numero": "M3",
+                "nome": "Dig"
+            },
+            {
+                "numero": "M4",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M5",
+                "nome": "Bug Bite"
+            },
+            {
+                "numero": "M6",
+                "nome": "Xscissor"
+            },
+            {
+                "numero": "M7",
+                "nome": "Giga Drain"
+            }
+        ]
+    },
+    {
+        "Nome": "Venonat",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M3",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M4",
+                "nome": "Poison Fang"
+            },
+            {
+                "numero": "M5",
+                "nome": "Signal Beam"
+            }
+        ]
+    },
+    {
+        "Nome": "Venomoth",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M2",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bug Buzz"
+            },
+            {
+                "numero": "M4",
+                "nome": "Psychic"
+            },
+            {
+                "numero": "M5",
+                "nome": "Poison Fang"
+            },
+            {
+                "numero": "M6",
+                "nome": "Signal Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Leech Life"
+            },
+            {
+                "numero": "M8",
+                "nome": "Zen Headbutt"
+            },
+            {
+                "numero": "M9",
+                "nome": "Giga Drain"
+            },
+            {
+                "numero": "M10",
+                "nome": "Psybeam"
+            }
+        ]
+    },
+    {
+        "Nome": "Diglett",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M3",
+                "nome": "Astonish"
+            },
+            {
+                "numero": "M4",
+                "nome": "Dig"
+            },
+            {
+                "numero": "M5",
+                "nome": "Rock Tomb"
+            }
+        ]
+    },
+    {
+        "Nome": "Dugtrio",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M3",
+                "nome": "Astonish"
+            },
+            {
+                "numero": "M4",
+                "nome": "Dig"
+            },
+            {
+                "numero": "M5",
+                "nome": "Rock Tomb"
+            },
+            {
+                "numero": "M6",
+                "nome": "Earth Power"
+            },
+            {
+                "numero": "M7",
+                "nome": "Triattack"
+            }
+        ]
+    },
+    {
+        "Nome": "Meowth",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M3",
+                "nome": "Pay Day"
+            },
+            {
+                "numero": "M4",
+                "nome": "Charm"
+            },
+            {
+                "numero": "M5",
+                "nome": "Night Slash"
+            }
+        ]
+    },
+    {
+        "Nome": "Persian",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M2",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M3",
+                "nome": "Pay Day"
+            },
+            {
+                "numero": "M4",
+                "nome": "Charm"
+            },
+            {
+                "numero": "M5",
+                "nome": "Night Slash"
+            },
+            {
+                "numero": "M6",
+                "nome": "Power Gem"
+            },
+            {
+                "numero": "M7",
+                "nome": "Play Rough"
+            }
+        ]
+    },
+    {
+        "Nome": "Psyduck",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M3",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M4",
+                "nome": "Water Pulse"
+            },
+            {
+                "numero": "M5",
+                "nome": "Signal Beam"
+            }
+        ]
+    },
+    {
+        "Nome": "Golduck",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Aqua Tail"
+            },
+            {
+                "numero": "M2",
+                "nome": "Water Sport"
+            },
+            {
+                "numero": "M3",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M4",
+                "nome": "Surf"
+            },
+            {
+                "numero": "M5",
+                "nome": "Signal Beam"
+            },
+            {
+                "numero": "M6",
+                "nome": "Ice Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Rain Dance"
+            },
+            {
+                "numero": "M8",
+                "nome": "Psyshock"
+            }
+        ]
+    },
+    {
+        "Nome": "Mankey",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Karate Chop"
+            },
+            {
+                "numero": "M3",
+                "nome": "Thunder Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Cross Chop"
+            },
+            {
+                "numero": "M5",
+                "nome": "Seismic Toss"
+            }
+        ]
+    },
+    {
+        "Nome": "Primeape",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Mega Punch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Karate Chop"
+            },
+            {
+                "numero": "M3",
+                "nome": "Thunder Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Cross Chop"
+            },
+            {
+                "numero": "M5",
+                "nome": "Seismic Toss"
+            },
+            {
+                "numero": "M6",
+                "nome": "Rage"
+            },
+            {
+                "numero": "M7",
+                "nome": "Night Slash"
+            },
+            {
+                "numero": "M8",
+                "nome": "Brick Break"
+            }
+        ]
+    },
+    {
+        "Nome": "Growlithe",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M2",
+                "nome": "Roar"
+            },
+            {
+                "numero": "M3",
+                "nome": "Ember"
+            },
+            {
+                "numero": "M4",
+                "nome": "Flame Wheel"
+            },
+            {
+                "numero": "M5",
+                "nome": "Fire Fang"
+            }
+        ]
+    },
+    {
+        "Nome": "Arcanine",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Play Rough"
+            },
+            {
+                "numero": "M2",
+                "nome": "Hyper Voice"
+            },
+            {
+                "numero": "M3",
+                "nome": "Flamethrower"
+            },
+            {
+                "numero": "M4",
+                "nome": "Flame Wheel"
+            },
+            {
+                "numero": "M5",
+                "nome": "Fire Fang"
+            },
+            {
+                "numero": "M6",
+                "nome": "Thunder Fang"
+            },
+            {
+                "numero": "M7",
+                "nome": "Crunch"
+            },
+            {
+                "numero": "M8",
+                "nome": "Flame Burst"
+            },
+            {
+                "numero": "M9",
+                "nome": "Outrage"
+            },
+            {
+                "numero": "M10",
+                "nome": "Flare Blitz"
+            }
+        ]
+    },
+    {
+        "Nome": "Poliwag",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M2",
+                "nome": "Double Slap"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rain Dance"
+            },
+            {
+                "numero": "M4",
+                "nome": "Water Sport"
+            }
+        ]
+    },
+    {
+        "Nome": "Poliwhirl",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M2",
+                "nome": "Double Slap"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rain Dance"
+            },
+            {
+                "numero": "M4",
+                "nome": "Water Sport"
+            },
+            {
+                "numero": "M5",
+                "nome": "Hypnosis"
+            },
+            {
+                "numero": "M6",
+                "nome": "Mud Bomb"
+            }
+        ]
+    },
+    {
+        "Nome": "Poliwrath",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M2",
+                "nome": "Brick Break"
+            },
+            {
+                "numero": "M3",
+                "nome": "Mega Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Water Sport"
+            },
+            {
+                "numero": "M5",
+                "nome": "Hypnosis"
+            },
+            {
+                "numero": "M6",
+                "nome": "Mud Bomb"
+            },
+            {
+                "numero": "M7",
+                "nome": "Ice Beam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Surf"
+            },
+            {
+                "numero": "M9",
+                "nome": "Dynamic Punch"
+            }
+        ]
+    },
+    {
+        "Nome": "Abra",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Psychic"
+            },
+            {
+                "numero": "M2",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M3",
+                "nome": "Calm Mind"
+            },
+            {
+                "numero": "M4",
+                "nome": "Recover"
+            }
+        ]
+    },
+    {
+        "Nome": "Kadabra",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Psychic"
+            },
+            {
+                "numero": "M2",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Calm Mind"
+            },
+            {
+                "numero": "M5",
+                "nome": "Dazzling Gleam"
+            },
+            {
+                "numero": "M6",
+                "nome": "Recover"
+            }
+        ]
+    },
+    {
+        "Nome": "Alakazam",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Psychic"
+            },
+            {
+                "numero": "M2",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M3",
+                "nome": "Psycho Shift"
+            },
+            {
+                "numero": "M4",
+                "nome": "Calm Mind"
+            },
+            {
+                "numero": "M5",
+                "nome": "Shadow Ball"
+            },
+            {
+                "numero": "M6",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M7",
+                "nome": "Psyshock"
+            },
+            {
+                "numero": "M8",
+                "nome": "Dazzling Gleam"
+            },
+            {
+                "numero": "M9",
+                "nome": "Protect"
+            },
+            {
+                "numero": "M10",
+                "nome": "Recover"
+            }
+        ]
+    },
+    {
+        "Nome": "Machop",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Karate Chop"
+            },
+            {
+                "numero": "M2",
+                "nome": "Knock Off"
+            },
+            {
+                "numero": "M3",
+                "nome": "Low Sweep"
+            },
+            {
+                "numero": "M4",
+                "nome": "Dual Chop"
+            }
+        ]
+    },
+    {
+        "Nome": "Machoke",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Karate Chop"
+            },
+            {
+                "numero": "M2",
+                "nome": "Knock Off"
+            },
+            {
+                "numero": "M3",
+                "nome": "Low Sweep"
+            },
+            {
+                "numero": "M4",
+                "nome": "Dual Chop"
+            },
+            {
+                "numero": "M5",
+                "nome": "Seismic Toss"
+            },
+            {
+                "numero": "M6",
+                "nome": "Vital Throw"
+            }
+        ]
+    },
+    {
+        "Nome": "Machamp",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Karate Chop"
+            },
+            {
+                "numero": "M2",
+                "nome": "Knock Off"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bulk Up"
+            },
+            {
+                "numero": "M4",
+                "nome": "Dual Chop"
+            },
+            {
+                "numero": "M5",
+                "nome": "Seismic Toss"
+            },
+            {
+                "numero": "M6",
+                "nome": "Vital Throw"
+            },
+            {
+                "numero": "M7",
+                "nome": "Bullet Punch"
+            },
+            {
+                "numero": "M8",
+                "nome": "Ice Punch"
+            },
+            {
+                "numero": "M9",
+                "nome": "Dynamic Punch"
+            }
+        ]
+    },
+    {
+        "Nome": "Bellsprout",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Vine Whip"
+            },
+            {
+                "numero": "M2",
+                "nome": "Acid"
+            },
+            {
+                "numero": "M3",
+                "nome": "Knock Off"
+            },
+            {
+                "numero": "M4",
+                "nome": "Razor Leaf"
+            }
+        ]
+    },
+    {
+        "Nome": "Weepinbell",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Vine Whip"
+            },
+            {
+                "numero": "M2",
+                "nome": "Acid"
+            },
+            {
+                "numero": "M3",
+                "nome": "Knock Off"
+            },
+            {
+                "numero": "M4",
+                "nome": "Razor Leaf"
+            },
+            {
+                "numero": "M5",
+                "nome": "Stun Spore"
+            },
+            {
+                "numero": "M6",
+                "nome": "Gastro Acid"
+            }
+        ]
+    },
+    {
+        "Nome": "Victreebel",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Vine Whip"
+            },
+            {
+                "numero": "M2",
+                "nome": "Acid"
+            },
+            {
+                "numero": "M3",
+                "nome": "Knock Off"
+            },
+            {
+                "numero": "M4",
+                "nome": "Razor Leaf"
+            },
+            {
+                "numero": "M5",
+                "nome": "Stun Spore"
+            },
+            {
+                "numero": "M6",
+                "nome": "Gastro Acid"
+            },
+            {
+                "numero": "M7",
+                "nome": "Giga Drain"
+            },
+            {
+                "numero": "M8",
+                "nome": "Leaf Storm"
+            }
+        ]
+    },
+    {
+        "Nome": "Tentacool",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Poison Sting"
+            },
+            {
+                "numero": "M2",
+                "nome": "Acid"
+            },
+            {
+                "numero": "M3",
+                "nome": "Water Pulse"
+            },
+            {
+                "numero": "M4",
+                "nome": "Poison Jab"
+            },
+            {
+                "numero": "M5",
+                "nome": "Hex"
+            }
+        ]
+    },
+    {
+        "Nome": "Tentacruel",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Toxic Spikes"
+            },
+            {
+                "numero": "M2",
+                "nome": "Sludge Wave"
+            },
+            {
+                "numero": "M3",
+                "nome": "Water Pulse"
+            },
+            {
+                "numero": "M4",
+                "nome": "Poison Jab"
+            },
+            {
+                "numero": "M5",
+                "nome": "Hex"
+            },
+            {
+                "numero": "M6",
+                "nome": "Ice Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Hydro Pump"
+            },
+            {
+                "numero": "M8",
+                "nome": "Knock Off"
+            },
+            {
+                "numero": "M9",
+                "nome": "Surf"
+            }
+        ]
+    },
+    {
+        "Nome": "Geodude",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Rock Throw"
+            },
+            {
+                "numero": "M3",
+                "nome": "Smack Down"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rock Slide"
+            }
+        ]
+    },
+    {
+        "Nome": "Graveler",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Rock Throw"
+            },
+            {
+                "numero": "M3",
+                "nome": "Smack Down"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rock Slide"
+            },
+            {
+                "numero": "M5",
+                "nome": "Rock Smash"
+            },
+            {
+                "numero": "M6",
+                "nome": "Bulldoze"
+            }
+        ]
+    },
+    {
+        "Nome": "Golem",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Rock Throw"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rock Blast"
+            },
+            {
+                "numero": "M4",
+                "nome": "Stone Edge"
+            },
+            {
+                "numero": "M5",
+                "nome": "Rock Smash"
+            },
+            {
+                "numero": "M6",
+                "nome": "Bulldoze"
+            },
+            {
+                "numero": "M7",
+                "nome": "Earthquake"
+            },
+            {
+                "numero": "M8",
+                "nome": "Selfdestruct"
+            }
+        ]
+    },
+    {
+        "Nome": "Ponyta",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Ember"
+            },
+            {
+                "numero": "M3",
+                "nome": "Flame Wheel"
+            },
+            {
+                "numero": "M4",
+                "nome": "Stomp"
+            },
+            {
+                "numero": "M5",
+                "nome": "Wild Charge"
+            }
+        ]
+    },
+    {
+        "Nome": "Rapidash",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quick Attack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Ember"
+            },
+            {
+                "numero": "M3",
+                "nome": "Flame Wheel"
+            },
+            {
+                "numero": "M4",
+                "nome": "Stomp"
+            },
+            {
+                "numero": "M5",
+                "nome": "Wild Charge"
+            },
+            {
+                "numero": "M6",
+                "nome": "Megahorn"
+            },
+            {
+                "numero": "M7",
+                "nome": "Poison Jab"
+            },
+            {
+                "numero": "M8",
+                "nome": "Double Kick"
+            },
+            {
+                "numero": "M9",
+                "nome": "Inferno"
+            }
+        ]
+    },
+    {
+        "Nome": "Slowpoke",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M2",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M3",
+                "nome": "Aqua Tail"
+            },
+            {
+                "numero": "M4",
+                "nome": "Ice Beam"
+            },
+            {
+                "numero": "M5",
+                "nome": "Slack Off"
+            }
+        ]
+    },
+    {
+        "Nome": "Slowbro",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M2",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M3",
+                "nome": "Aqua Tail"
+            },
+            {
+                "numero": "M4",
+                "nome": "Ice Beam"
+            },
+            {
+                "numero": "M5",
+                "nome": "Heal Pulse"
+            },
+            {
+                "numero": "M6",
+                "nome": "Rain Dance"
+            },
+            {
+                "numero": "M7",
+                "nome": "Psychic"
+            },
+            {
+                "numero": "M8",
+                "nome": "Slack Off"
+            }
+        ]
+    },
+    {
+        "Nome": "Magnemite",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M2",
+                "nome": "Thunder Shock"
+            },
+            {
+                "numero": "M3",
+                "nome": "Gyro Ball"
+            },
+            {
+                "numero": "M4",
+                "nome": "Flash Cannon"
+            }
+        ]
+    },
+    {
+        "Nome": "Magneton",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M2",
+                "nome": "Thunder Shock"
+            },
+            {
+                "numero": "M3",
+                "nome": "Gyro Ball"
+            },
+            {
+                "numero": "M4",
+                "nome": "Flash Cannon"
+            },
+            {
+                "numero": "M5",
+                "nome": "Sonic Boom"
+            },
+            {
+                "numero": "M6",
+                "nome": "Magnet Bomb"
+            },
+            {
+                "numero": "M7",
+                "nome": "Triattack"
+            }
+        ]
+    },
+    {
+        "Nome": "Farfetchd",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Aerial Ace"
+            },
+            {
+                "numero": "M3",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M4",
+                "nome": "Leaf Blade"
+            },
+            {
+                "numero": "M5",
+                "nome": "Night Slash"
+            },
+            {
+                "numero": "M6",
+                "nome": "Brave Bird"
+            }
+        ]
+    },
+    {
+        "Nome": "Doduo",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Peck"
+            },
+            {
+                "numero": "M2",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Pluck"
+            },
+            {
+                "numero": "M4",
+                "nome": "Furyattack"
+            },
+            {
+                "numero": "M5",
+                "nome": "Drill Peck"
+            }
+        ]
+    },
+    {
+        "Nome": "Dodrio",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Peck"
+            },
+            {
+                "numero": "M2",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Feintattack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Furyattack"
+            },
+            {
+                "numero": "M5",
+                "nome": "Drill Peck"
+            },
+            {
+                "numero": "M6",
+                "nome": "Agility"
+            },
+            {
+                "numero": "M7",
+                "nome": "Brave Bird"
+            },
+            {
+                "numero": "M8",
+                "nome": "Triattack"
+            }
+        ]
+    },
+    {
+        "Nome": "Seel",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Headbutt"
+            },
+            {
+                "numero": "M2",
+                "nome": "Water Sport"
+            },
+            {
+                "numero": "M3",
+                "nome": "Icy Wind"
+            },
+            {
+                "numero": "M4",
+                "nome": "Ice Shard"
+            },
+            {
+                "numero": "M5",
+                "nome": "Aqua Tail"
+            }
+        ]
+    },
+    {
+        "Nome": "Dewgong",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Headbutt"
+            },
+            {
+                "numero": "M2",
+                "nome": "Water Sport"
+            },
+            {
+                "numero": "M3",
+                "nome": "Icy Wind"
+            },
+            {
+                "numero": "M4",
+                "nome": "Ice Shard"
+            },
+            {
+                "numero": "M5",
+                "nome": "Aqua Tail"
+            },
+            {
+                "numero": "M6",
+                "nome": "Aurora Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Signal Beam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Blizzard"
+            }
+        ]
+    },
+    {
+        "Nome": "Grimer",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Pound"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Gas"
+            },
+            {
+                "numero": "M3",
+                "nome": "Mudslap"
+            },
+            {
+                "numero": "M4",
+                "nome": "Mean Look"
+            },
+            {
+                "numero": "M5",
+                "nome": "Sludge"
+            }
+        ]
+    },
+    {
+        "Nome": "Muk",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Shadow Punch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M3",
+                "nome": "Mudslap"
+            },
+            {
+                "numero": "M4",
+                "nome": "Mean Look"
+            },
+            {
+                "numero": "M5",
+                "nome": "Sludge"
+            },
+            {
+                "numero": "M6",
+                "nome": "Mud Bomb"
+            },
+            {
+                "numero": "M7",
+                "nome": "Ice Punch"
+            },
+            {
+                "numero": "M8",
+                "nome": "Sludge Wave"
+            },
+            {
+                "numero": "M9",
+                "nome": "Gunk Shot"
+            }
+        ]
+    },
+    {
+        "Nome": "Shellder",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M3",
+                "nome": "Clamp"
+            },
+            {
+                "numero": "M4",
+                "nome": "Ice Shard"
+            },
+            {
+                "numero": "M5",
+                "nome": "Mud Shot"
+            }
+        ]
+    },
+    {
+        "Nome": "Cloyster",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Toxic Spikes"
+            },
+            {
+                "numero": "M2",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M3",
+                "nome": "Clamp"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rock Blast"
+            },
+            {
+                "numero": "M5",
+                "nome": "Mud Shot"
+            },
+            {
+                "numero": "M6",
+                "nome": "Ice Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Signal Beam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Hydro Pump"
+            },
+            {
+                "numero": "M9",
+                "nome": "Blizzard"
+            }
+        ]
+    },
+    {
+        "Nome": "Gastly",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Lick"
+            },
+            {
+                "numero": "M2",
+                "nome": "Shadow Ball"
+            },
+            {
+                "numero": "M3",
+                "nome": "Toxic"
+            },
+            {
+                "numero": "M4",
+                "nome": "Mean Look"
+            }
+        ]
+    },
+    {
+        "Nome": "Haunter",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Lick"
+            },
+            {
+                "numero": "M2",
+                "nome": "Shadow Ball"
+            },
+            {
+                "numero": "M3",
+                "nome": "Toxic"
+            },
+            {
+                "numero": "M4",
+                "nome": "Mean Look"
+            },
+            {
+                "numero": "M5",
+                "nome": "Confuse Ray"
+            },
+            {
+                "numero": "M6",
+                "nome": "Scary Face"
+            }
+        ]
+    },
+    {
+        "Nome": "Gengar",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Lick"
+            },
+            {
+                "numero": "M2",
+                "nome": "Hex"
+            },
+            {
+                "numero": "M3",
+                "nome": "Toxic"
+            },
+            {
+                "numero": "M4",
+                "nome": "Mean Look"
+            },
+            {
+                "numero": "M5",
+                "nome": "Confuse Ray"
+            },
+            {
+                "numero": "M6",
+                "nome": "Dream Eater"
+            },
+            {
+                "numero": "M7",
+                "nome": "Sludge Bomb"
+            },
+            {
+                "numero": "M8",
+                "nome": "Dark Pulse"
+            },
+            {
+                "numero": "M9",
+                "nome": "Hypnosis"
+            },
+            {
+                "numero": "M10",
+                "nome": "Focus Blast"
+            }
+        ]
+    },
+    {
+        "Nome": "Onix",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rock Throw"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rock Tomb"
+            },
+            {
+                "numero": "M5",
+                "nome": "Sand Tomb"
+            },
+            {
+                "numero": "M6",
+                "nome": "Dragon Breath"
+            }
+        ]
+    },
+    {
+        "Nome": "Drowzee",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Pound"
+            },
+            {
+                "numero": "M2",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M3",
+                "nome": "Headbutt"
+            },
+            {
+                "numero": "M4",
+                "nome": "Psybeam"
+            },
+            {
+                "numero": "M5",
+                "nome": "Synchronoise"
+            }
+        ]
+    },
+    {
+        "Nome": "Hypno",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Drain Punch"
+            },
+            {
+                "numero": "M3",
+                "nome": "Headbutt"
+            },
+            {
+                "numero": "M4",
+                "nome": "Psybeam"
+            },
+            {
+                "numero": "M5",
+                "nome": "Synchronoise"
+            },
+            {
+                "numero": "M6",
+                "nome": "Psychic"
+            },
+            {
+                "numero": "M7",
+                "nome": "Future Sight"
+            },
+            {
+                "numero": "M8",
+                "nome": "Hypnosis"
+            }
+        ]
+    },
+    {
+        "Nome": "Krabby",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bubble"
+            },
+            {
+                "numero": "M2",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M3",
+                "nome": "Mud Shot"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rock Smash"
+            },
+            {
+                "numero": "M5",
+                "nome": "Crabhammer"
+            }
+        ]
+    },
+    {
+        "Nome": "Kingler",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bubble Beam"
+            },
+            {
+                "numero": "M2",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M3",
+                "nome": "Mud Shot"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rock Smash"
+            },
+            {
+                "numero": "M5",
+                "nome": "Crabhammer"
+            },
+            {
+                "numero": "M6",
+                "nome": "Fury Cutter"
+            },
+            {
+                "numero": "M7",
+                "nome": "Surf"
+            },
+            {
+                "numero": "M8",
+                "nome": "Brine"
+            }
+        ]
+    },
+    {
+        "Nome": "Voltorb",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Spark"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rollout"
+            },
+            {
+                "numero": "M4",
+                "nome": "Swift"
+            },
+            {
+                "numero": "M5",
+                "nome": "Sonic Boom"
+            }
+        ]
+    },
+    {
+        "Nome": "Electrode",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Spark"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rollout"
+            },
+            {
+                "numero": "M4",
+                "nome": "Swift"
+            },
+            {
+                "numero": "M5",
+                "nome": "Sonic Boom"
+            },
+            {
+                "numero": "M6",
+                "nome": "Charge Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Discharge"
+            },
+            {
+                "numero": "M8",
+                "nome": "Selfdestruct"
+            }
+        ]
+    },
+    {
+        "Nome": "Exeggcute",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Uproar"
+            },
+            {
+                "numero": "M2",
+                "nome": "Leech Seed"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bullet Seed"
+            },
+            {
+                "numero": "M4",
+                "nome": "Stun Spore"
+            },
+            {
+                "numero": "M5",
+                "nome": "Confusion"
+            }
+        ]
+    },
+    {
+        "Nome": "Exeggutor",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Uproar"
+            },
+            {
+                "numero": "M2",
+                "nome": "Leech Seed"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bullet Seed"
+            },
+            {
+                "numero": "M4",
+                "nome": "Seed Bomb"
+            },
+            {
+                "numero": "M5",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M6",
+                "nome": "Ancient Power"
+            },
+            {
+                "numero": "M7",
+                "nome": "Leaf Storm"
+            },
+            {
+                "numero": "M8",
+                "nome": "Protect"
+            },
+            {
+                "numero": "M9",
+                "nome": "Hypnosis"
+            }
+        ]
+    },
+    {
+        "Nome": "Cubone",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bone Club"
+            },
+            {
+                "numero": "M2",
+                "nome": "Headbutt"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bonemerang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rage"
+            },
+            {
+                "numero": "M5",
+                "nome": "Fire Punch"
+            }
+        ]
+    },
+    {
+        "Nome": "Marowak",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bone Club"
+            },
+            {
+                "numero": "M2",
+                "nome": "Headbutt"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bonemerang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rage"
+            },
+            {
+                "numero": "M5",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M6",
+                "nome": "Earth Power"
+            },
+            {
+                "numero": "M7",
+                "nome": "Sandstorm"
+            },
+            {
+                "numero": "M8",
+                "nome": "Iron Head"
+            }
+        ]
+    },
+    {
+        "Nome": "Hitmonlee",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Double Kick"
+            },
+            {
+                "numero": "M2",
+                "nome": "Mega Kick"
+            },
+            {
+                "numero": "M3",
+                "nome": "Vacuum Wave"
+            },
+            {
+                "numero": "M4",
+                "nome": "Blaze Kick"
+            },
+            {
+                "numero": "M5",
+                "nome": "Rapid Spin"
+            },
+            {
+                "numero": "M6",
+                "nome": "Rock Smash"
+            },
+            {
+                "numero": "M7",
+                "nome": "Revenge"
+            },
+            {
+                "numero": "M8",
+                "nome": "Knock Off"
+            }
+        ]
+    },
+    {
+        "Nome": "Hitmonchan",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Comet Punch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Mach Punch"
+            },
+            {
+                "numero": "M3",
+                "nome": "Bullet Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Agility"
+            },
+            {
+                "numero": "M5",
+                "nome": "Drain Punch"
+            },
+            {
+                "numero": "M6",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M7",
+                "nome": "Thunder Punch"
+            },
+            {
+                "numero": "M8",
+                "nome": "Bulk Up"
+            }
+        ]
+    },
+    {
+        "Nome": "Lickitung",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Lick"
+            },
+            {
+                "numero": "M2",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M3",
+                "nome": "Knock Off"
+            },
+            {
+                "numero": "M4",
+                "nome": "Stomp"
+            },
+            {
+                "numero": "M5",
+                "nome": "Power Whip"
+            }
+        ]
+    },
+    {
+        "Nome": "Koffing",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Smog"
+            },
+            {
+                "numero": "M3",
+                "nome": "Toxic Spikes"
+            },
+            {
+                "numero": "M4",
+                "nome": "Sludge"
+            },
+            {
+                "numero": "M5",
+                "nome": "Flamethrower"
+            }
+        ]
+    },
+    {
+        "Nome": "Weezing",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Poison Gas"
+            },
+            {
+                "numero": "M3",
+                "nome": "Toxic Spikes"
+            },
+            {
+                "numero": "M4",
+                "nome": "Sludge Bomb"
+            },
+            {
+                "numero": "M5",
+                "nome": "Fire Blast"
+            },
+            {
+                "numero": "M6",
+                "nome": "Gyro Ball"
+            },
+            {
+                "numero": "M7",
+                "nome": "Belch"
+            },
+            {
+                "numero": "M8",
+                "nome": "Selfdestruct"
+            }
+        ]
+    },
+    {
+        "Nome": "Rhyhorn",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Hornattack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Furyattack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Scary Face"
+            },
+            {
+                "numero": "M4",
+                "nome": "Smack Down"
+            },
+            {
+                "numero": "M5",
+                "nome": "Bulldoze"
+            }
+        ]
+    },
+    {
+        "Nome": "Rhydon",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Horn Attack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Chip Away"
+            },
+            {
+                "numero": "M3",
+                "nome": "Scary Face"
+            },
+            {
+                "numero": "M4",
+                "nome": "Smack Down"
+            },
+            {
+                "numero": "M5",
+                "nome": "Bulldoze"
+            },
+            {
+                "numero": "M6",
+                "nome": "Megahorn"
+            },
+            {
+                "numero": "M7",
+                "nome": "Drill Run"
+            }
+        ]
+    },
+    {
+        "Nome": "Chansey",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Pound"
+            },
+            {
+                "numero": "M2",
+                "nome": "Charm"
+            },
+            {
+                "numero": "M3",
+                "nome": "Sweet Kiss"
+            },
+            {
+                "numero": "M4",
+                "nome": "Refresh"
+            },
+            {
+                "numero": "M5",
+                "nome": "Heal Pulse"
+            },
+            {
+                "numero": "M6",
+                "nome": "Heal Bell"
+            }
+        ]
+    },
+    {
+        "Nome": "Tangela",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Vine Whip"
+            },
+            {
+                "numero": "M2",
+                "nome": "Absorb"
+            },
+            {
+                "numero": "M3",
+                "nome": "Sleep Powder"
+            },
+            {
+                "numero": "M4",
+                "nome": "Poison Powder"
+            },
+            {
+                "numero": "M5",
+                "nome": "Mega Drain"
+            },
+            {
+                "numero": "M6",
+                "nome": "Stun Spore"
+            },
+            {
+                "numero": "M7",
+                "nome": "Knock Off"
+            }
+        ]
+    },
+    {
+        "Nome": "Kangaskhan",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Comet Punch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Crunch"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rage"
+            },
+            {
+                "numero": "M4",
+                "nome": "Mega Punch"
+            },
+            {
+                "numero": "M5",
+                "nome": "Drain Punch"
+            },
+            {
+                "numero": "M6",
+                "nome": "Iron Tail"
+            },
+            {
+                "numero": "M7",
+                "nome": "Dynamic Punch"
+            },
+            {
+                "numero": "M8",
+                "nome": "Outrage"
+            }
+        ]
+    },
+    {
+        "Nome": "Horsea",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bubble"
+            },
+            {
+                "numero": "M2",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M3",
+                "nome": "Twister"
+            },
+            {
+                "numero": "M4",
+                "nome": "Bubble Beam"
+            }
+        ]
+    },
+    {
+        "Nome": "Seadra",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bubble"
+            },
+            {
+                "numero": "M2",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M3",
+                "nome": "Twister"
+            },
+            {
+                "numero": "M4",
+                "nome": "Bubble Beam"
+            },
+            {
+                "numero": "M5",
+                "nome": "Aurora Beam"
+            },
+            {
+                "numero": "M6",
+                "nome": "Dragon Pulse"
+            }
+        ]
+    },
+    {
+        "Nome": "Goldeen",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Peck"
+            },
+            {
+                "numero": "M2",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M3",
+                "nome": "Hornattack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Water Pulse"
+            },
+            {
+                "numero": "M5",
+                "nome": "Megahorn"
+            }
+        ]
+    },
+    {
+        "Nome": "Seaking",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Peck"
+            },
+            {
+                "numero": "M2",
+                "nome": "Supersonic"
+            },
+            {
+                "numero": "M3",
+                "nome": "Hornattack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Water Pulse"
+            },
+            {
+                "numero": "M5",
+                "nome": "Megahorn"
+            },
+            {
+                "numero": "M6",
+                "nome": "Poison Jab"
+            },
+            {
+                "numero": "M7",
+                "nome": "Mud Shot"
+            },
+            {
+                "numero": "M8",
+                "nome": "Water Sport"
+            }
+        ]
+    },
+    {
+        "Nome": "Staryu",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M3",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M4",
+                "nome": "Swift"
+            },
+            {
+                "numero": "M5",
+                "nome": "Psywave"
+            }
+        ]
+    },
+    {
+        "Nome": "Starmie",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Swift"
+            },
+            {
+                "numero": "M2",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M3",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M4",
+                "nome": "Power Gem"
+            },
+            {
+                "numero": "M5",
+                "nome": "Confuse Ray"
+            },
+            {
+                "numero": "M6",
+                "nome": "Psywave"
+            },
+            {
+                "numero": "M7",
+                "nome": "Icy Wind"
+            },
+            {
+                "numero": "M8",
+                "nome": "Hydro Pump"
+            },
+            {
+                "numero": "M9",
+                "nome": "Recover"
+            }
+        ]
+    },
+    {
+        "Nome": "Mr.Mime",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Double Slap"
+            },
+            {
+                "numero": "M2",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M3",
+                "nome": "Charm"
+            },
+            {
+                "numero": "M4",
+                "nome": "Psywave"
+            },
+            {
+                "numero": "M5",
+                "nome": "Magical Leaf"
+            },
+            {
+                "numero": "M6",
+                "nome": "Dazzling Gleam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Focus Blast"
+            },
+            {
+                "numero": "M8",
+                "nome": "Protect"
+            }
+        ]
+    },
+    {
+        "Nome": "Scyther",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quick Attack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Vacuum Wave"
+            },
+            {
+                "numero": "M3",
+                "nome": "Wing Attack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Agility"
+            },
+            {
+                "numero": "M5",
+                "nome": "Fury Cutter"
+            },
+            {
+                "numero": "M6",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M7",
+                "nome": "X Scissor"
+            },
+            {
+                "numero": "M8",
+                "nome": "Air Slash"
+            }
+        ]
+    },
+    {
+        "Nome": "Jynx",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Draining Kiss"
+            },
+            {
+                "numero": "M2",
+                "nome": "Lick"
+            },
+            {
+                "numero": "M3",
+                "nome": "Ice Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Mean Look"
+            },
+            {
+                "numero": "M5",
+                "nome": "Wish"
+            },
+            {
+                "numero": "M6",
+                "nome": "Psyshock"
+            },
+            {
+                "numero": "M7",
+                "nome": "Blizzard"
+            },
+            {
+                "numero": "M8",
+                "nome": "Protect"
+            }
+        ]
+    },
+    {
+        "Nome": "Electabuzz",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Thunder Shock"
+            },
+            {
+                "numero": "M3",
+                "nome": "Shock Wave"
+            },
+            {
+                "numero": "M4",
+                "nome": "Thunder Punch"
+            },
+            {
+                "numero": "M5",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M6",
+                "nome": "Thunder Wave"
+            },
+            {
+                "numero": "M7",
+                "nome": "Discharge"
+            }
+        ]
+    },
+    {
+        "Nome": "Magmar",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Flamethrower"
+            },
+            {
+                "numero": "M2",
+                "nome": "Smog"
+            },
+            {
+                "numero": "M3",
+                "nome": "Feintattack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M5",
+                "nome": "Thunder Punch"
+            },
+            {
+                "numero": "M6",
+                "nome": "Cross Chop"
+            },
+            {
+                "numero": "M7",
+                "nome": "Fire Blast"
+            }
+        ]
+    },
+    {
+        "Nome": "Pinsir",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quick Attack"
+            },
+            {
+                "numero": "M2",
+                "nome": "Seismic Toss"
+            },
+            {
+                "numero": "M3",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M4",
+                "nome": "Double Hit"
+            },
+            {
+                "numero": "M5",
+                "nome": "Vital Throw"
+            },
+            {
+                "numero": "M6",
+                "nome": "Knock Off"
+            },
+            {
+                "numero": "M7",
+                "nome": "Bug Bite"
+            },
+            {
+                "numero": "M8",
+                "nome": "X Scissor"
+            },
+            {
+                "numero": "M9",
+                "nome": "Superpower"
+            }
+        ]
+    },
+    {
+        "Nome": "Tauros",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Rage"
+            },
+            {
+                "numero": "M3",
+                "nome": "Scary Face"
+            },
+            {
+                "numero": "M4",
+                "nome": "Iron Tail"
+            },
+            {
+                "numero": "M5",
+                "nome": "Rock Smash"
+            },
+            {
+                "numero": "M6",
+                "nome": "Uproar"
+            },
+            {
+                "numero": "M7",
+                "nome": "Earthquake"
+            },
+            {
+                "numero": "M8",
+                "nome": "Zen Headbutt"
+            }
+        ]
+    },
+    {
+        "Nome": "Magikarp",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Splash"
+            },
+            {
+                "numero": "M2",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M3",
+                "nome": "Flail"
+            },
+            {
+                "numero": "M4",
+                "nome": "Bounce"
+            }
+        ]
+    },
+    {
+        "Nome": "Gyarados",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M2",
+                "nome": "Dragon Rage"
+            },
+            {
+                "numero": "M3",
+                "nome": "Twister"
+            },
+            {
+                "numero": "M4",
+                "nome": "Ice Fang"
+            },
+            {
+                "numero": "M5",
+                "nome": "Aqua Tail"
+            },
+            {
+                "numero": "M6",
+                "nome": "Hyper Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Hydro Pump"
+            },
+            {
+                "numero": "M8",
+                "nome": "Iron Head"
+            },
+            {
+                "numero": "M9",
+                "nome": "Outrage"
+            }
+        ]
+    },
+    {
+        "Nome": "Lapras",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M2",
+                "nome": "Sing"
+            },
+            {
+                "numero": "M3",
+                "nome": "Confuse Ray"
+            },
+            {
+                "numero": "M4",
+                "nome": "Ice Shard"
+            },
+            {
+                "numero": "M5",
+                "nome": "Life Dew"
+            },
+            {
+                "numero": "M6",
+                "nome": "Freeze-Dry"
+            },
+            {
+                "numero": "M7",
+                "nome": "Ancient Power"
+            },
+            {
+                "numero": "M8",
+                "nome": "Hydro Pump"
+            },
+            {
+                "numero": "M9",
+                "nome": "Blizzard"
+            }
+        ]
+    },
+    {
+        "Nome": "Ditto",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Transform"
+            }
+        ]
+    },
+    {
+        "Nome": "Eevee",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M4",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M5",
+                "nome": "Refresh"
+            }
+        ]
+    },
+    {
+        "Nome": "Vaporeon",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M2",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Water Pulse"
+            },
+            {
+                "numero": "M4",
+                "nome": "Aqua Tail"
+            },
+            {
+                "numero": "M5",
+                "nome": "Iron Tail"
+            },
+            {
+                "numero": "M6",
+                "nome": "Signal Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Aurora Beam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Hydro Pump"
+            },
+            {
+                "numero": "M9",
+                "nome": "Refresh"
+            }
+        ]
+    },
+    {
+        "Nome": "Jolteon",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M2",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Thunder Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Pinmissile"
+            },
+            {
+                "numero": "M5",
+                "nome": "Agility"
+            },
+            {
+                "numero": "M6",
+                "nome": "Signal Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Discharge"
+            },
+            {
+                "numero": "M8",
+                "nome": "Thunder"
+            },
+            {
+                "numero": "M9",
+                "nome": "Refresh"
+            }
+        ]
+    },
+    {
+        "Nome": "Flareon",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Quickattack"
+            },
+            {
+                "numero": "M2",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M5",
+                "nome": "Iron Tail"
+            },
+            {
+                "numero": "M6",
+                "nome": "Rock Smash"
+            },
+            {
+                "numero": "M7",
+                "nome": "Lava Plume"
+            },
+            {
+                "numero": "M8",
+                "nome": "Flare Blitz"
+            },
+            {
+                "numero": "M9",
+                "nome": "Refresh"
+            }
+        ]
+    },
+    {
+        "Nome": "Porygon",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Tackle"
+            },
+            {
+                "numero": "M2",
+                "nome": "Psybeam"
+            },
+            {
+                "numero": "M3",
+                "nome": "Signal Beam"
+            },
+            {
+                "numero": "M4",
+                "nome": "Tri Attack"
+            },
+            {
+                "numero": "M5",
+                "nome": "Recover"
+            }
+        ]
+    },
+    {
+        "Nome": "Omanyte",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M2",
+                "nome": "Water Gun"
+            },
+            {
+                "numero": "M3",
+                "nome": "Mud Shot"
+            },
+            {
+                "numero": "M4",
+                "nome": "Brine"
+            },
+            {
+                "numero": "M5",
+                "nome": "Rock Blast"
+            }
+        ]
+    },
+    {
+        "Nome": "Omastar",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M2",
+                "nome": "Scald"
+            },
+            {
+                "numero": "M3",
+                "nome": "Mud Shot"
+            },
+            {
+                "numero": "M4",
+                "nome": "Brine"
+            },
+            {
+                "numero": "M5",
+                "nome": "Rock Blast"
+            },
+            {
+                "numero": "M6",
+                "nome": "Aurora Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Ancient Power"
+            },
+            {
+                "numero": "M8",
+                "nome": "Hydro Pump"
+            }
+        ]
+    },
+    {
+        "Nome": "Kabuto",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Scratch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Harden"
+            },
+            {
+                "numero": "M3",
+                "nome": "Absorb"
+            },
+            {
+                "numero": "M4",
+                "nome": "SandAttack"
+            },
+            {
+                "numero": "M5",
+                "nome": "Mega Drain"
+            }
+        ]
+    },
+    {
+        "Nome": "Kabutops",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Slash"
+            },
+            {
+                "numero": "M2",
+                "nome": "Night Slash"
+            },
+            {
+                "numero": "M3",
+                "nome": "Absorb"
+            },
+            {
+                "numero": "M4",
+                "nome": "Sand Attack"
+            },
+            {
+                "numero": "M5",
+                "nome": "Giga Drain"
+            },
+            {
+                "numero": "M6",
+                "nome": "Bubble Beam"
+            },
+            {
+                "numero": "M7",
+                "nome": "Aurora Beam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Ancient Power"
+            }
+        ]
+    },
+    {
+        "Nome": "Aerodactyl",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Bite"
+            },
+            {
+                "numero": "M2",
+                "nome": "Fire Fang"
+            },
+            {
+                "numero": "M3",
+                "nome": "Thunder Fang"
+            },
+            {
+                "numero": "M4",
+                "nome": "Ice Fang"
+            },
+            {
+                "numero": "M5",
+                "nome": "Iron Head"
+            },
+            {
+                "numero": "M6",
+                "nome": "Rock Slide"
+            },
+            {
+                "numero": "M7",
+                "nome": "Hyper Beam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Ancient Power"
+            },
+            {
+                "numero": "M9",
+                "nome": "Roost"
+            }
+        ]
+    },
+    {
+        "Nome": "Snorlax",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Lick"
+            },
+            {
+                "numero": "M2",
+                "nome": "Ice Punch"
+            },
+            {
+                "numero": "M3",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Rock Smash"
+            },
+            {
+                "numero": "M5",
+                "nome": "Body Slam"
+            },
+            {
+                "numero": "M6",
+                "nome": "Earthquake"
+            },
+            {
+                "numero": "M7",
+                "nome": "Hyper Beam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Rest"
+            },
+            {
+                "numero": "M9",
+                "nome": "Zen Headbutt"
+            },
+            {
+                "numero": "M10",
+                "nome": "Selfdestruct"
+            }
+        ]
+    },
+    {
+        "Nome": "Articuno",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Fly"
+            },
+            {
+                "numero": "M2",
+                "nome": "Hurricane"
+            },
+            {
+                "numero": "M3",
+                "nome": "Water Pulse"
+            },
+            {
+                "numero": "M4",
+                "nome": "Ice Beam"
+            },
+            {
+                "numero": "M5",
+                "nome": "Frost Breath"
+            },
+            {
+                "numero": "M6",
+                "nome": "Ancient Power"
+            },
+            {
+                "numero": "M7",
+                "nome": "Blizzard"
+            },
+            {
+                "numero": "M8",
+                "nome": "Protect"
+            },
+            {
+                "numero": "M9",
+                "nome": "Roost"
+            },
+            {
+                "numero": "M10",
+                "nome": "Skyattack"
+            }
+        ]
+    },
+    {
+        "Nome": "Zapdos",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Fly"
+            },
+            {
+                "numero": "M2",
+                "nome": "Drill Peck"
+            },
+            {
+                "numero": "M3",
+                "nome": "Rain Dance"
+            },
+            {
+                "numero": "M4",
+                "nome": "Heat Wave"
+            },
+            {
+                "numero": "M5",
+                "nome": "Thunder Wave"
+            },
+            {
+                "numero": "M6",
+                "nome": "Ancient Power"
+            },
+            {
+                "numero": "M7",
+                "nome": "Zap Cannon"
+            },
+            {
+                "numero": "M8",
+                "nome": "Thunder"
+            },
+            {
+                "numero": "M9",
+                "nome": "Roost"
+            },
+            {
+                "numero": "M10",
+                "nome": "Skyattack"
+            }
+        ]
+    },
+    {
+        "Nome": "Moltres",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Fly"
+            },
+            {
+                "numero": "M2",
+                "nome": "Hurricane"
+            },
+            {
+                "numero": "M3",
+                "nome": "Solar Beam"
+            },
+            {
+                "numero": "M4",
+                "nome": "Flamethrower"
+            },
+            {
+                "numero": "M5",
+                "nome": "Fire Spin"
+            },
+            {
+                "numero": "M6",
+                "nome": "Ancient Power"
+            },
+            {
+                "numero": "M7",
+                "nome": "Heat Wave"
+            },
+            {
+                "numero": "M8",
+                "nome": "Fire Blast"
+            },
+            {
+                "numero": "M9",
+                "nome": "Roost"
+            },
+            {
+                "numero": "M10",
+                "nome": "Skyattack"
+            }
+        ]
+    },
+    {
+        "Nome": "Dratini",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Dragon Rage"
+            },
+            {
+                "numero": "M2",
+                "nome": "Thunder Wave"
+            },
+            {
+                "numero": "M3",
+                "nome": "Aqua Tail"
+            },
+            {
+                "numero": "M4",
+                "nome": "Flamethrower"
+            }
+        ]
+    },
+    {
+        "Nome": "Dragonair",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Dragon Rage"
+            },
+            {
+                "numero": "M2",
+                "nome": "Thunder Wave"
+            },
+            {
+                "numero": "M3",
+                "nome": "Aqua Tail"
+            },
+            {
+                "numero": "M4",
+                "nome": "Flamethrower"
+            },
+            {
+                "numero": "M5",
+                "nome": "Iron Tail"
+            },
+            {
+                "numero": "M6",
+                "nome": "Twister"
+            },
+            {
+                "numero": "M7",
+                "nome": "Hyper Beam"
+            }
+        ]
+    },
+    {
+        "Nome": "Dragonite",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Dragon Claw"
+            },
+            {
+                "numero": "M2",
+                "nome": "Thunder Punch"
+            },
+            {
+                "numero": "M3",
+                "nome": "Ice Punch"
+            },
+            {
+                "numero": "M4",
+                "nome": "Fire Punch"
+            },
+            {
+                "numero": "M5",
+                "nome": "Iron Head"
+            },
+            {
+                "numero": "M6",
+                "nome": "Draco Meteor"
+            },
+            {
+                "numero": "M7",
+                "nome": "Hyper Beam"
+            },
+            {
+                "numero": "M8",
+                "nome": "Outrage"
+            },
+            {
+                "numero": "M9",
+                "nome": "Hurricane"
+            },
+            {
+                "numero": "M10",
+                "nome": "Roost"
+            }
+        ]
+    },
+    {
+        "Nome": "Mewtwo",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Confusion"
+            },
+            {
+                "numero": "M2",
+                "nome": "Swift"
+            },
+            {
+                "numero": "M3",
+                "nome": "Psycho Cut"
+            },
+            {
+                "numero": "M4",
+                "nome": "Shadow Ball"
+            },
+            {
+                "numero": "M5",
+                "nome": "Drain Punch"
+            },
+            {
+                "numero": "M6",
+                "nome": "Zen Headbutt"
+            },
+            {
+                "numero": "M7",
+                "nome": "Psystrike"
+            },
+            {
+                "numero": "M8",
+                "nome": "Aura Sphere"
+            },
+            {
+                "numero": "M9",
+                "nome": "Protect"
+            },
+            {
+                "numero": "M10",
+                "nome": "Recover"
+            }
+        ]
+    },
+    {
+        "Nome": "Mew",
+        "Ataques": [
+            {
+                "numero": "M1",
+                "nome": "Mega Punch"
+            },
+            {
+                "numero": "M2",
+                "nome": "Psychic"
+            },
+            {
+                "numero": "M3",
+                "nome": "Ancient Power"
+            },
+            {
+                "numero": "M4",
+                "nome": "Aura Sphere"
+            },
+            {
+                "numero": "M5",
+                "nome": "Drain Punch"
+            },
+            {
+                "numero": "M6",
+                "nome": "Heat Wave"
+            },
+            {
+                "numero": "M7",
+                "nome": "Giga Drain"
+            },
+            {
+                "numero": "M8",
+                "nome": "Fly"
+            },
+            {
+                "numero": "M9",
+                "nome": "Surf"
+            },
+            {
+                "numero": "M10",
+                "nome": "Synthesis"
+            }
+        ]
+    }
+]
